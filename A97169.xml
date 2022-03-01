@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hand-kirchife for loyall mourners or A cordiall for drooping spirits, groaning for the bloody murther, and heavy losse of our gracious King martyred by his owne trayterous and rebellious subjects, for the truth of Christ, and the liberties of his people. Being a letter to a friend.</title>
+            <author>Warmstry, Thomas, 1610-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97169</idno>
+            <idno type="STC">Wing W883A</idno>
+            <idno type="STC">Thomason E541_6</idno>
+            <idno type="STC">ESTC R38944</idno>
+            <idno type="EEBO-CITATION">99872524</idno>
+            <idno type="PROQUEST">99872524</idno>
+            <idno type="VID">164915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164915)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E541[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hand-kirchife for loyall mourners or A cordiall for drooping spirits, groaning for the bloody murther, and heavy losse of our gracious King martyred by his owne trayterous and rebellious subjects, for the truth of Christ, and the liberties of his people. Being a letter to a friend.</title>
+                  <author>Warmstry, Thomas, 1610-1665.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Warmstry.</note>
+                  <note>Annotations on Thomason copy: "Feb: 2d 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproductions of the originals in the Union Theological Seminary and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164915:1" rendition="simple:additions"/>
+            <p>A HAND-KIRCHIFE FOR LOYALL MOURNERS OR A Cordiall for Drooping <hi>Spirits,</hi> Groaning for the bloody murther, and heavy loſſe of our GRACIOVS KING Martyred by his owne trayterous and rebellious Subjects, for the truth of CHRIST, and the Liber<g ref="char:EOLhyphen"/>ties of his People. Being a LETTER to a FRIEND.</p>
+            <q>
+               <bibl>Lam. 1.12.</bibl>
+               <p>It is nothing unto you, all yee that paſſe by? Behold and ſee, if there be any ſorrow like unto my ſor<g ref="char:EOLhyphen"/>row, which is done unto me, wherewith the Lord hath af<g ref="char:EOLhyphen"/>flicted me in the day of his feirce anger?</p>
+            </q>
+            <q>
+               <bibl>Lam. 4.20.</bibl>
+               <p>The Breath of our Noſtrills, the Annoynted of the LORD is fallen into their Pitts: of whom we ſaid under his ſhaddow we ſhall live.</p>
+            </q>
+            <p>LONDON, Printed <hi>Anno Dom.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164915:2"/>
+            <pb n="3" facs="tcp:164915:2"/>
+            <head>A HAND-KERCHIEFE FOR LOYALL MOVRNERS OR A cordiall for drooping Spirits, Groaning for the bloody murther, and heavy loſſe of our GRACIOVS KING.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He great obligations that I beare unto you, for your many favours, and more eſpeci<g ref="char:EOLhyphen"/>ally for the refuge and comfort that I have received from you in the time of my per<g ref="char:EOLhyphen"/>ſecution, will not ſuffer the ſenſe that I have of the publique calamities that are now upon us, in the loſſe of our gracious King, now ſacrificed to de<g ref="char:EOLhyphen"/>ſtruction by the Tyranny of inſolent and ungodly men, ſo wholly to take up all the room of my heart, but that the care of your ſafety and comfort, muſt be a partner with it, ſo far as to ſet me upon this endeavour to admi<g ref="char:EOLhyphen"/>niſter ſome Cordiall unto you, to preſerve you from fainting under the burthen of thoſe render thoughts that are in you toward his ſacred Majeſty. It is the con<g ref="char:EOLhyphen"/>dition that God hath allotted unto all Earthly things, that they are all bitter ſweets, and have in them a mix<g ref="char:EOLhyphen"/>ture of joy and ſorrow There is no delight ſo perfect in this world, but hath ſome affliction attending upon it. There is pure and ſincere happineſſe in nothing but in
+<pb n="4" facs="tcp:164915:3"/>God; that we thay not be ſo taken with any earthly fe<g ref="char:EOLhyphen"/>licity as to give up our hearts unto it. Therefore every Roſe that groweth in this garden hath its Thorne, every beauty its blemiſh, every Splendour its waight. That the one may be a remembrancer unto us, not to doate too much upon the other: That the full bent of our affe<g ref="char:EOLhyphen"/>ctions may ſtill be reſerved for God. If there were any thing found here of ſo entire and uniforme a compoſure of felicity, that there were no other quarell left for the mind of man to entertaine againſt it, yet this is an inſe<g ref="char:EOLhyphen"/>parable abatement that ſticks upon them all, that they are all fraile and fading and muſt have an end; and no<g ref="char:EOLhyphen"/>thing can make us truly happy, but that wherein happy<g ref="char:EOLhyphen"/>neſſe is laſting and perpetuall and on the other ſide. There is nothing that befalleth us in this world, ſo pure<g ref="char:EOLhyphen"/>ly grevious and calamitous, but there is ſome matter of comfort and conſolation to be found in it, which grace can diſcover and make uſe of, though ſome times it is be<g ref="char:EOLhyphen"/>yond the wiſdome of nature.</p>
+            <p>There is no Poyſon but hath ſomething Medicinable in it, which the art of Pietie may draw forth of it. I con<g ref="char:EOLhyphen"/>feſſe indeed that the preſent calamity we are under, the loſſe of his Sacred Majeſty, is an evill of ſo ſad a pre<g ref="char:EOLhyphen"/>ſence unto an honeſt and Chriſtian heart, that if we look upon it, with a full view in all the conſequences that are like to follow it will not be eaſily [for ought I know] to think upon any earthly calamity of more univerſall and perfect ſorrow; and yet even in this. There are ſome cor<g ref="char:EOLhyphen"/>ners of refuge for a Chriſtian ſoule to hide it ſelfe in, that it may not be ſwallowed up with diſcontent; That ſo good a KING ſhould die, it hath in it matter of emi<g ref="char:EOLhyphen"/>nent ſorrow. But then that he died ſo good a KING
+<pb n="5" facs="tcp:164915:3"/>That hath ſome recompence of comfort and ſolace. In the former, our loſſe calleth for our ſighs, but in the latter his gaine alloweth us ſome breathings of joy. That he ſhould die under the name of a Tyrant, a Mur<g ref="char:EOLhyphen"/>therer, and a Traytor, is an object full of lamentation. But that he died indeed a Martyr; A Martyr both of the State and the Church, for the liberties of his Sub<g ref="char:EOLhyphen"/>jects, like a good KING; And in the defence of the true Religion, like a good and glorious Chriſtian: This hath joy in it above that ſorrow, whilſt we ſee the igno<g ref="char:EOLhyphen"/>minies of his death but ſhaddowes and falſehoods, But the Glories thereof as Subſtances and Truths, which will enroll him in the golden Catalougues both of faith<g ref="char:EOLhyphen"/>full ſufferers for his God, and ſaithfull Patriots and Fa<g ref="char:EOLhyphen"/>thers of his Countrey. That he ſhould be trampled on with ſo much inſolence, as I think the like hath ne<g ref="char:EOLhyphen"/>ver beene heard of in the World, (and I am ſory ſhould have the firſt preſident in a Chriſtian Church, and Nation) it is a matter of much ſadneſſe and griefe, but that he ſhould ſuffer ſo much inſolence with ſuch admirable courage and Chriſtian patience, the like whereof I think hath ſcarce bin read of in all the world, this preſenteth him unto us as a Conquerour over his enemies and perſecutors, and them as the ſlaves and cap<g ref="char:EOLhyphen"/>tives of his Chriſtian triumph, and affordeth us mat<g ref="char:EOLhyphen"/>ter of joy and contentment. It is an heavy thing to think on, that he ſhould ſuffer by his own Iudaſſes: But a joy<g ref="char:EOLhyphen"/>full and glorious thing it is to think on, that he ſuffered ſo like his own Ieſus, ſo like him in the manner and cir<g ref="char:EOLhyphen"/>cumſtances of his ſufferings being betrayed by, his owne ſervants, arraigned before Iewes and <hi>Pilate,</hi> at the beſt, reviled, reproached, and they ſay ſpit upon by an un<g ref="char:EOLhyphen"/>worthy
+<pb n="6" facs="tcp:164915:4"/>varlet, ſcorned and contemned, &amp; condemned unto death: ſo like him in the temper of his ſufferings, with ſo much meekneſſe and fortitude, undauntednes of ſpirit, and ſubmiſſion to the will of God: So like him in the cauſe of his ſufferings (as farre as we may with al re<g ref="char:EOLhyphen"/>verence to the infinite and incomparable ſufferings of Chriſt: compare inferiour things with thoſe that are ſo farre above them) Chriſt ſuffered for the good of his of his people, ſo did he: Chriſt for the freedome of his people, ſo doth he for the freedome of his: indeed this difference there is which barres out infinitely any equa<g ref="char:EOLhyphen"/>lity between the one and other: Chriſt he ſuffered for the whole world, he but for his three Kingdoms: Chriſt to free his people from an eternall captivity, and the ty<g ref="char:EOLhyphen"/>ranny of <hi>Sathan:</hi> He to free his Kingdoms from a tem<g ref="char:EOLhyphen"/>porall captivity and the Tyranny of wicked men: ſo that though in theſe things he be farre below his maſter Chriſt Ieſus, yet ſo like him, that I think it will be very hard to ſinde a nearer parallel in any earthly ſtory: and like him too in the perſon of the ſufferer, Chriſt was a King and ſo was he, Chriſt the ſupreame and <hi>Charles</hi> his ſubſtitute; Chriſt a ſpirituall King, he a tem<g ref="char:EOLhyphen"/>porall, whoſe Kingdome was of this world, and there<g ref="char:EOLhyphen"/>fore according to our Saviours Rule, <hi>his ſervants ſhould have fought, that he ſhould not have been delivered to thoſe Iewes.</hi>
+            </p>
+            <p>It is indeed a ſad thing to conſider, what a diſtreſſed Familie and Kingdome hee hath left behind him; But it is a joyfull thing to think on, what a joyfull and a glo<g ref="char:EOLhyphen"/>rious Kingdome he hath obtained, where every ſuffe<g ref="char:EOLhyphen"/>ring of his hath as it were its peculiar crown: &amp; his cru<g ref="char:EOLhyphen"/>ell death is ſucceeded with an eternall and immortal life:
+<pb n="7" facs="tcp:164915:4"/>a Crown that feares no inſolent depoſers and a life that dreads no inhumane Traytors and murtherers.</p>
+            <p>To conclude as we find in him ſo much matter of joy to ballance our ſorrows, and ſuch as doth adde much honour to all thoſe that have truly ſerved ſo good, ſo gracious, and ſo pious a Lord and Maſter, ſo we have in him likewiſe great patternes of Patience and Chriſtian reſolution, that as he fainted not in his, ſo we may learn firſt of Chriſt, and then of him too, not to faint in our Tryalls, that as he went ſo patiently and meekly to the ſuffering of the loſſe of his Crowns and life, ſo we may prepare our ſelves Patiently and meekly to ſuffer the loſſe of him, not murmuring againſt God, or charging him fooliſhly, but ſeeing and acknowledging Gods hand even in this, that we may with the holy Pſalmiſt hold our peaces and ſay nothing (nothing I mean in the way of murmuring and impatience) becauſe it is his doing, but if we ſay any thing we may ſay with Eli; <hi>It is the Lord let him doe what ſeemeth him good,</hi> or with holy <hi>Iob; The Lord hath given, and the Lord hath taken away, blesſed be the name of the Lord,</hi> that however wicked men have taken upon them, without Commiſſion to be the Iudges of his Subſtitute, yet we may not take upon us to judge God, or call him to an account for his acti<g ref="char:EOLhyphen"/>ons, but rather reverence both his Iuſtice and mercy therein; his Iuſtice upon us for our ſinnes, and his mer<g ref="char:EOLhyphen"/>cy unto his Annointed, in taking him away, from ſo wicked, cruell, bloody and inſulting a Nation, humbling our ſelves under his mighty hand, and waiting upon him in the wayes of his judgements, and patiently expecting in this alſo the fulfilling of that gracious promiſe of his unto his people. <hi>That all things ſhall work together for
+<pb n="8" facs="tcp:164915:5"/>good to thoſe that love God.</hi> In which joyfull promiſe, I heartily wiſh you and your worthy Husband, and your family a plentifull ſhare, and in all that good which I hope the Lord will return yet upon the faithful, and loy<g ref="char:EOLhyphen"/>all people of this land for <hi>the ſufferings of his Annoin<g ref="char:EOLhyphen"/>ted, whereby he is ſo much glorifyed.</hi> I ſhall end all with this Prayer unto God: that he will diſpoſe us to ſubmit as we ought unto this and all other afflictions hee ſhall lay upon us, and give us grace to yeeld him the fruit of them: That he will be gracious to our young King, the afflicted Queen, and the Royall Family, and to the op<g ref="char:EOLhyphen"/>preſſed and diſtreſſed people of the Land. That he will forgive our Enemies, and ſoften their hearts, and multi<g ref="char:EOLhyphen"/>plie his bleſſings upon us and all our friends. So I reſt,</p>
+            <closer>
+               <signed>Your much obliged ſervant.</signed>
+               <dateline>
+                  <date>Ianuary 31. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
